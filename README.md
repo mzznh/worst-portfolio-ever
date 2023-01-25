@@ -19,7 +19,7 @@ In the journey of music production.
 
 *Moms clothings - wood - sponge*
 <!-- ![](./resources/Aawyah.jpeg) -->
-<img src="./resources/Aawyah.jpeg" alt="" height="400"/>
+<img src="./resources/Aawyah.jpeg" alt="" height="400" />
 
 
 
@@ -30,10 +30,10 @@ In the journey of music production.
 
 *Glass bottle - canvas sticker*
 
-<img src="./resources/Shakbotah_gif.gif" alt="" height="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Shakbotah.jpeg" alt="" height="400"/>  
+<img src="./resources/Shakbotah_gif.gif" alt="" height="400" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Shakbotah.jpeg" alt="" height="400" />  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Shakbotah_3.jpeg" alt="" height="400"/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/workspaces/worst-portfolio-ever/resources/Shakbotah_2.jpeg" alt="" height="400"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Shakbotah_3.jpeg" alt="" height="400" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/workspaces/worst-portfolio-ever/resources/Shakbotah_2.jpeg" alt="" height="400" /> 
 
 
 
@@ -43,5 +43,5 @@ In the journey of music production.
 
 *Concrete - wicker*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Service_table_4.jpg" alt="" height="400"/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/workspaces/worst-portfolio-ever/resources/Service_table.png" alt="" height="400"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Service_table_4.jpg" alt="" height="400" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/workspaces/worst-portfolio-ever/resources/Service_table.png" alt="" height="400" /> 
