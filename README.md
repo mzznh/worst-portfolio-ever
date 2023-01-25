@@ -14,17 +14,34 @@ In the journey of music production.
 
 ##  آوية
 للسكن والسكون
-An acoustic panel
-Moms clothings - wood - sponge
-![](./resources/Aawyah.jpeg)
+
+**An acoustic panel**
+
+*Moms clothings - wood - sponge*
+<!-- ![](./resources/Aawyah.jpeg) -->
+<img src="./resources/Aawyah.jpeg" alt="" height="400"/>
+
 
 
 ## شخبوطه
 في الحل والترحال
-Glass bottle product branding
-Glass bottle - canvas sticker
 
-## TODO
+**Glass bottle product branding**
 
-Service Table
-Concrete - wicker
+*Glass bottle - canvas sticker*
+
+<img src="./resources/Shakbotah_gif.gif" alt="" height="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Shakbotah.jpeg" alt="" height="400"/>  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Shakbotah 3.jpeg" alt="" height="400"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/workspaces/worst-portfolio-ever/resources/Shakbotah 2.jpeg" alt="" height="400"/> 
+
+
+
+## Service Table
+
+**Service Table**
+
+*Concrete - wicker*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/workspaces/worst-portfolio-ever/resources/Service table 4.jpg" alt="" height="400"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/workspaces/worst-portfolio-ever/resources/Service table.png" alt="" height="400"/> 
