@@ -16,6 +16,8 @@ In the journey of music production.
 للسكن والسكون
 An acoustic panel
 Moms clothings - wood - sponge
+![](./resources/Aawyah.jpeg)
+
 
 ## شخبوطه
 في الحل والترحال
