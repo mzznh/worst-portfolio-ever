@@ -1,5 +1,28 @@
 # The Worst Portfolio Ever
-hi this me making the worst portfolio ever.
+hi this me Ahmed
+making the worst portfolio ever.
 
-## Why it is the worst ?
-![Alt Text](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
+# Current Life
+Software engineer full time job who seeks for ART
+Love collecting records so I made my portable dj setup running full in battery with 125db loudness.
+In the journey of music production.
+
+# Goal
+- Experience artists life
+
+# Projects
+
+##  آوية
+للسكن والسكون
+An acoustic panel
+Moms clothings - wood - sponge
+
+## شخبوطه
+في الحل والترحال
+Glass bottle product branding
+Glass bottle - canvas sticker
+
+## TODO
+
+Service Table
+Concrete - wicker
