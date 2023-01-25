@@ -1,11 +1,13 @@
 # The Worst Portfolio Ever
-hi this me Ahmed
-making the worst portfolio ever.
+hi this me Ahmed making the worst portfolio ever. <img src="./resources/Profile2.jpg" alt="" height="150" /> 
 
 # Current Life
 Software engineer full time job who seeks for ART
+
 Love collecting records so I made my portable dj setup running full in battery with 125db loudness.
+
 In the journey of music production.
+
 Worked in several project for a cafe brand.
 
 # Goal
