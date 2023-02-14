@@ -1,6 +1,7 @@
 # The Worst Portfolio Ever
 hi this me Ahmed making the worst portfolio ever.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./resources/Profile2.jpg" alt="" height="150" /> 
 
+ahmedgublan@gmail.com
 # Current Life
 Software engineer full time job who seeks for ART
 
